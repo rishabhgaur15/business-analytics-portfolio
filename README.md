@@ -2,6 +2,19 @@
 
 Welcome to my business analytics project portfolio! This repository features 3 end-to-end projects across Retail, Media, and Manufacturing domains. Each project is designed to solve real business problems using data, analytics, and automation.
 
+🚀 **Why This Portfolio Matters:**  
+In today’s data-driven world, businesses need analysts who not only understand data but can transform it into clear, actionable business outcomes. Each project in this portfolio represents a real-world challenge I tackled—from optimizing retail sales to deploying AI in manufacturing—with measurable impact.
+
+---
+
+## 🔧 Visual Previews
+
+| Black Friday Dashboard | Sonic Hub Retention Dashboard | Larch AI Defect Detection |
+|------------------------|-------------------------------|----------------------------|
+| ![Black Friday](images/blackfriday.png) | ![Sonic Hub](images/sonichub.png) | ![Larch AI](images/larchai.png) |
+
+---
+
 ## 📦 Black Friday Analytics – Retail Optimization
 
 **🧠 Problem:** Inventory mismanagement and lack of real-time sales insights during Black Friday events.  
@@ -10,6 +23,8 @@ Welcome to my business analytics project portfolio! This repository features 3 e
 
 ### 🔍 Description
 Analyzed 500,000+ transactions to build a Power BI dashboard showing sales trends, category-wise revenue, and inventory gaps. Enabled sales and inventory teams to act proactively.
+
+---
 
 ## 🎬 Sonic Hub Studios – Churn Prediction
 
@@ -20,6 +35,7 @@ Analyzed 500,000+ transactions to build a Power BI dashboard showing sales trend
 ### 🔍 Description
 Combined SQL and NoSQL data, built unified dashboards and a churn prediction model to support retention efforts. Delivered actionable insights to marketing and finance.
 
+---
 
 ## 🏭 Larch AI – Automated Defect Detection
 
@@ -30,5 +46,14 @@ Combined SQL and NoSQL data, built unified dashboards and a churn prediction mod
 ### 🔍 Description
 Built a CNN model to classify metal surface defects. Integrated results into dashboards for real-time QA insights and audit trails.
 
+---
 
+## 📂 Folder Structure
 
+- `/BlackFriday` – Retail sales optimization during Black Friday using Power BI
+- `/SonicHub` – Customer churn prediction for a digital media platform
+- `/LarchAI` – Deep learning for real-time defect detection in manufacturing
+
+---
+
+📌 **Tip:** Link this repo in your resume and LinkedIn profile to showcase hands-on project experience.
