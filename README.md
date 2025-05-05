@@ -54,6 +54,3 @@ Built a CNN model to classify metal surface defects. Integrated results into das
 - `/SonicHub` – Customer churn prediction for a digital media platform
 - `/LarchAI` – Deep learning for real-time defect detection in manufacturing
 
----
-
-📌 **Tip:** Link this repo in your resume and LinkedIn profile to showcase hands-on project experience.
