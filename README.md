@@ -8,10 +8,8 @@ In today’s data-driven world, businesses need analysts who not only understand
 ---
 
 ## 🔧 Visual Previews
+| ![Black Friday](images/1.png) | ![Sonic Hub](images/2.png) | ![Larch AI](images/3.png) |
 
-| Black Friday Dashboard | Sonic Hub Retention Dashboard | Larch AI Defect Detection |
-|------------------------|-------------------------------|----------------------------|
-| ![Black Friday](images/blackfriday.png) | ![Sonic Hub](images/sonichub.png) | ![Larch AI](images/larchai.png) |
 
 ---
 
